@@ -1,0 +1,40 @@
+21:15:57,447 [ConsoleUI.Program] ERROR - This is my error message
+22:10:23,941 [ConsoleUI.Program] ERROR - This is my error message
+22:11:41,412 [ConsoleUI.Program] ERROR - This is my error message
+22:12:11,862 [ConsoleUI.Program] ERROR - This is my error message
+22:13:22,269 [ConsoleUI.Program] ERROR - This is my error message
+22:17:21,507 [ConsoleUI.Program] ERROR - This is my error message
+22:39:00,506 [ConsoleUI.Program] ERROR - This is my error message
+22:40:40,956 [ConsoleUI.Program] ERROR - This is my error message
+22:42:05,300 [ConsoleUI.Program] ERROR - This is my error message
+22:44:53,592 [ConsoleUI.Program] ERROR - This is my error message
+00:33:22,571 [ConsoleUI.Program] ERROR - This is my error message
+00:33:22,607 [ConsoleUI.Program] DEBUG - Developer : Tutorial was run
+00:33:22,608 [ConsoleUI.Program] INFO - Maintenance : water pump turned on
+00:33:22,609 [ConsoleUI.Program] WARN - Maintenance : the water pump is getting hot
+00:33:22,619 [ConsoleUI.Program] ERROR - Developer : we tried to divide by zero again
+00:33:22,620 [ConsoleUI.Program] FATAL - Maintenance : water pump exploded
+00:33:57,229 [ConsoleUI.Program] ERROR - This is my error message
+00:33:57,269 [ConsoleUI.Program] DEBUG - Developer : Tutorial was run
+00:33:57,270 [ConsoleUI.Program] INFO - Maintenance : water pump turned on
+00:33:57,272 [ConsoleUI.Program] WARN - Maintenance : the water pump is getting hot
+00:33:57,278 [ConsoleUI.Program] ERROR - Developer : we tried to divide by zero again
+00:33:57,280 [ConsoleUI.Program] FATAL - Maintenance : water pump exploded
+00:34:21,882 [ConsoleUI.Program] ERROR - This is my error message
+00:34:21,905 [ConsoleUI.Program] DEBUG - Developer : Tutorial was run
+00:34:21,906 [ConsoleUI.Program] INFO - Maintenance : water pump turned on
+00:34:21,906 [ConsoleUI.Program] WARN - Maintenance : the water pump is getting hot
+00:34:21,912 [ConsoleUI.Program] ERROR - Developer : we tried to divide by zero again
+00:34:21,913 [ConsoleUI.Program] FATAL - Maintenance : water pump exploded
+00:36:55,118 [ConsoleUI.Program] ERROR - This is my error message
+00:36:55,140 [ConsoleUI.Program] DEBUG - Developer : Tutorial was run
+00:36:55,141 [ConsoleUI.Program] INFO - Maintenance : water pump turned on
+00:36:55,141 [ConsoleUI.Program] WARN - Maintenance : the water pump is getting hot
+00:36:55,157 [ConsoleUI.Program] ERROR - Developer : we tried to divide by zero again
+00:36:55,158 [ConsoleUI.Program] FATAL - Maintenance : water pump exploded
+00:37:18,169 [ConsoleUI.Program] ERROR - This is my error message
+00:37:18,191 [ConsoleUI.Program] DEBUG - Developer : Tutorial was run
+00:37:18,192 [ConsoleUI.Program] INFO - Maintenance : water pump turned on
+00:37:18,192 [ConsoleUI.Program] WARN - Maintenance : the water pump is getting hot
+00:37:18,198 [ConsoleUI.Program] ERROR - Developer : we tried to divide by zero again
+00:37:18,199 [ConsoleUI.Program] FATAL - Maintenance : water pump exploded
